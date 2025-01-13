@@ -1,3 +1,15 @@
+"""
+Copyright (c) 2025 Xu Hongmei, Nanyang Technological University
+
+Licensed under the MIT License. See the LICENSE file in the repository root for details.
+
+If you use this code in your research or publications, please cite:
+"Practical guidelines for using spatial correlation functions to 
+understand the collective motion of living matter."
+"""
+
+
+
 import numpy as np
 import pandas as pd
 import scipy

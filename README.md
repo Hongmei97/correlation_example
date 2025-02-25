@@ -2,7 +2,7 @@
 This repository provides functions to calculate correlation functions for a given director field or vector field, along with example data and usage demonstrations.
 
 Permission is granted to use, copy, modify, and distribute this code, provided that you cite the following paper in your research or publications:  
-**"Practical guidelines for using spatial correlation functions to understand the collective motion of living matter."**
+**"Consistency in using spatial correlation functions to understand collective motion of living matter2"**
 
 
 ## Dependencies
